@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+  -webkit-font-smoothing: auto;
+  -moz-font-smoothing: auto;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: auto;
+  text-rendering: optimizeLegibility;
+  font-smooth: always;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}
+
+.btn{
+    color
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+.showcase {
+  text-align: center;
+}
+
+.showcase2 {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.showcase3{
+          backgroundColor: color,
+          width: '200px',
+          height: '200px',
+          margin: 'auto',
+          border: '1px solid #000',
+
+}
+
+.showcase4{
+    textAlign: 'center', padding: '50px'
+    
+}
